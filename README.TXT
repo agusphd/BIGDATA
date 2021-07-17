@@ -55,3 +55,6 @@ comm = MPI.COMM_WORLD
 size = comm.Get_size()
 rank = comm.Get_rank()
 print(size,rank)
+
+7. Link to Data:
+https://drive.google.com/drive/u/1/folders/1I6fkdq3HUAHVVJX5jZ_9cwsuN6yD-Uiu
