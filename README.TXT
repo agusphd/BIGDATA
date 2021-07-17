@@ -1,5 +1,4 @@
 1. OS:
-No LSB modules are available.
 Distributor ID:	Ubuntu
 Description:	Ubuntu 20.04.2 LTS
 Release:	20.04
